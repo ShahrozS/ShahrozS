@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shahrozsalman7@gmail.com**
 
-- 📄 Know more about me [https://www.linkedin.com/notifications/?filter=all](https://www.linkedin.com/notifications/?filter=all)
+- 📄 Know more about me [LinkdIn/shahroz-salman](https://www.linkedin.com/in/shahroz-salman/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
