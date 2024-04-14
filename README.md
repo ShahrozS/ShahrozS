@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahroz Salman</h1>
-<h3 align="center">Full stack developer. Transferring data from front-end to back-end to Database.</h3>
+<h3 align="center">Full stack developer. Transferring data from Front-end to Back-end to Database and back.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrozs&label=Profile%20views&color=0e75b6&style=flat" alt="shahrozs" /> </p>
 
