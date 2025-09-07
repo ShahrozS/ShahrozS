@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahrozs&label=Profile%20views&color=0e75b6&style=flat" alt="shahrozs" /> </p>
 
-- 🔭 My Recent Project is [The Social Network](https://github.com/ShahrozS/TheSocialNetwork)
+- 🔭 My Recent Project is [UniverCity](https://github.com/ShahrozS/UniverCity)
 
 - Looking to collaborate on **Next JS, Spring Boot, React, JS**
 
